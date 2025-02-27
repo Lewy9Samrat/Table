@@ -49,7 +49,7 @@ ul li label {
 }
 
 button {
-  background-color: #8e44ad;
+  background-color: orange;
   color: #fff;
   border: none;
   display: block;
@@ -59,12 +59,7 @@ button {
   font-family: inherit;
   padding: 1.3rem;
 }
-
-button:hover {
-  background-color: #732d91;
-}
-
 button:focus {
   outline: none;
-  background-color: #5e3370;
+  background-color: orange;
 }
